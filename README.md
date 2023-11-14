@@ -4,7 +4,9 @@
 
 - **Project objective:** 
 
-    To create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ and to conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    To create a _[customer performance report](https://github.com/AmitZanje-analyst/Sales-Project--Excel/blob/ee4bf67ccc1f14efa40aecd82d958a0fdd8caf2d/Customer%20Performance%20Report.pdf
+)_ and to conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/AmitZanje-analyst/Sales-Project--Excel/blob/ee4bf67ccc1f14efa40aecd82d958a0fdd8caf2d/Market%20Performance%20vs%20Target%20Report.pdf
+)_ 
 
 - **Purpose of sales analytics:**
    + Customer Insights: Explore customer data to understand purchasing behavior, identify high-value customers, and enhance customer engagement strategies
@@ -19,9 +21,10 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/AmitZanje-analyst/Sales-Project--Excel/blob/ee4bf67ccc1f14efa40aecd82d958a0fdd8caf2d/P%26L%20Statement%20by%20Fiscal%20Year.pdf
+)_ & _[Months](https://github.com/AmitZanje-analyst/Sales-Project--Excel/blob/ee4bf67ccc1f14efa40aecd82d958a0fdd8caf2d/P%26L%20Statement%20by%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/AmitZanje-analyst/Sales-Project--Excel/blob/ee4bf67ccc1f14efa40aecd82d958a0fdd8caf2d/P%26L%20Statement%20by%20Markets.pdf)_
 
 - **Purpose of sales analytics:**
    + Trend Identification: Uncover trends and patterns in sales data over specific time periods, enabling us to make proactive decisions and adapt to changing market dynamics.
